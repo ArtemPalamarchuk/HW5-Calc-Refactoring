@@ -12,7 +12,7 @@ function initElements(){
 function addListeners() {
 	for (let i = 0; i < model.getAllBtns().length; i++) {
 		let btn = model.getAllBtns()[i];
-		
+
 		btn.addEventListener('click', function (e) {
 			clickNumber(e.target.textContent);
 		});
@@ -124,10 +124,21 @@ function cutDisplay(a) {
 function displayCut(a) {
     model.setDisplay(cutDisplay(a));
 }
+
+
+
+
+
+
 function clickNumber(n) {
-    if (n === "0" && model.getDisplay() === "0"){
+	if (n === "0"  && model.getDisplay() === "0"){
 		return;
-	}else if(model.getIsCheck()){
+	}
+	else if( n !== "0" && model.getDisplay() === "0" ){
+		model.setDisplay(n);
+		model.setIsCheck(false)
+	}
+	else if(model.getIsCheck()){
     	model.setDisplay(n);
     	model.setIsCheck(false)
 	}else{
