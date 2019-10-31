@@ -34,3 +34,12 @@ C:\Users\м\Desktop\HW\HW5 OOP\CalculatorOOP C#\obj\Debug\CalculatorOOP.Properti
 C:\Users\м\Desktop\HW\HW5 OOP\CalculatorOOP C#\obj\Debug\CalculatorOOP.csproj.GenerateResource.cache
 C:\Users\м\Desktop\HW\HW5 OOP\CalculatorOOP C#\obj\Debug\CalculatorOOP.exe
 C:\Users\м\Desktop\HW\HW5 OOP\CalculatorOOP C#\obj\Debug\CalculatorOOP.pdb
+D:\DeVEduHW\HW5-Calc-Refactoring\CalculatorOOP C#\CalculatorOOP C#\bin\Debug\CalculatorOOP.exe.config
+D:\DeVEduHW\HW5-Calc-Refactoring\CalculatorOOP C#\CalculatorOOP C#\bin\Debug\CalculatorOOP.exe
+D:\DeVEduHW\HW5-Calc-Refactoring\CalculatorOOP C#\CalculatorOOP C#\bin\Debug\CalculatorOOP.pdb
+D:\DeVEduHW\HW5-Calc-Refactoring\CalculatorOOP C#\CalculatorOOP C#\obj\Debug\CalculatorOOP.csprojAssemblyReference.cache
+D:\DeVEduHW\HW5-Calc-Refactoring\CalculatorOOP C#\CalculatorOOP C#\obj\Debug\CalculatorOOP.Form1.resources
+D:\DeVEduHW\HW5-Calc-Refactoring\CalculatorOOP C#\CalculatorOOP C#\obj\Debug\CalculatorOOP.Properties.Resources.resources
+D:\DeVEduHW\HW5-Calc-Refactoring\CalculatorOOP C#\CalculatorOOP C#\obj\Debug\CalculatorOOP.csproj.GenerateResource.cache
+D:\DeVEduHW\HW5-Calc-Refactoring\CalculatorOOP C#\CalculatorOOP C#\obj\Debug\CalculatorOOP.exe
+D:\DeVEduHW\HW5-Calc-Refactoring\CalculatorOOP C#\CalculatorOOP C#\obj\Debug\CalculatorOOP.pdb

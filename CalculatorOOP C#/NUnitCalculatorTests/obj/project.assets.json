@@ -5225,11 +5225,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\м\\Desktop\\HW\\HW5 OOP\\NUnitCalculatorTests\\NUnitCalculatorTests.csproj",
+      "projectUniqueName": "D:\\DeVEduHW\\HW5-Calc-Refactoring\\CalculatorOOP C#\\NUnitCalculatorTests\\NUnitCalculatorTests.csproj",
       "projectName": "NUnitCalculatorTests",
-      "projectPath": "C:\\Users\\м\\Desktop\\HW\\HW5 OOP\\NUnitCalculatorTests\\NUnitCalculatorTests.csproj",
+      "projectPath": "D:\\DeVEduHW\\HW5-Calc-Refactoring\\CalculatorOOP C#\\NUnitCalculatorTests\\NUnitCalculatorTests.csproj",
       "packagesPath": "C:\\Users\\м\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\м\\Desktop\\HW\\HW5 OOP\\NUnitCalculatorTests\\obj\\",
+      "outputPath": "D:\\DeVEduHW\\HW5-Calc-Refactoring\\CalculatorOOP C#\\NUnitCalculatorTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5248,8 +5248,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\м\\Desktop\\HW\\HW5 OOP\\CalculatorOOP C#\\CalculatorOOP.csproj": {
-              "projectPath": "C:\\Users\\м\\Desktop\\HW\\HW5 OOP\\CalculatorOOP C#\\CalculatorOOP.csproj"
+            "D:\\DeVEduHW\\HW5-Calc-Refactoring\\CalculatorOOP C#\\CalculatorOOP C#\\CalculatorOOP.csproj": {
+              "projectPath": "D:\\DeVEduHW\\HW5-Calc-Refactoring\\CalculatorOOP C#\\CalculatorOOP C#\\CalculatorOOP.csproj"
             }
           }
         }
